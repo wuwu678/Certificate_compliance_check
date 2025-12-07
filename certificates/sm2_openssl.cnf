@@ -1,0 +1,7 @@
+[ req ]
+distinguished_name = req_distinguished_name
+prompt = no
+string_mask = utf8only
+
+[ req_distinguished_name ]
+CN = placeholder

@@ -1,0 +1,5 @@
+[sm2_valid]
+basicConstraints=critical,CA:FALSE
+keyUsage=critical,digitalSignature,keyAgreement
+extendedKeyUsage=serverAuth,clientAuth
+subjectAltName=DNS:sm2.valid.example.com

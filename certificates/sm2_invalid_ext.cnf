@@ -1,0 +1,4 @@
+[sm2_invalid]
+keyUsage=digitalSignature,dataEncipherment,keyCertSign
+extendedKeyUsage=serverAuth
+subjectAltName=DNS:sm2.invalid.example.com
